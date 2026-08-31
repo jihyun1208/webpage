@@ -19,25 +19,6 @@ assets/                                프로필 사진, 연구 이미지, 아�
 영문 페이지가 기본(`index.html`), 한국어 페이지는 `.ko.html` 입니다.
 우측 상단의 `EN` / `KO` 버튼으로 서로 전환됩니다.
 
-## 배포 (GitHub Pages)
-
-기존 `jihyun1208/home` 저장소를 그대로 쓰는 경우:
-
-```bash
-cd website
-git init
-git remote add origin https://github.com/jihyun1208/home.git
-git add -A
-git commit -m "Redesign personal research website"
-git branch -M main
-git push -u origin main --force
-```
-
-푸시 후 저장소 **Settings → Pages** 에서 Source 를 `main` 브랜치 `/ (root)` 로 두면
-`https://jihyun1208.github.io/home/` 에 반영됩니다.
-
-`jihyun1208.github.io` (루트 도메인)로 쓰고 싶다면 저장소 이름을
-`jihyun1208.github.io` 로 새로 만들어 같은 내용을 푸시하세요.
 
 ## 수정 방법
 
