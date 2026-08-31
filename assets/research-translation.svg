@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" width="320" height="200">
+  <rect width="320" height="200" fill="#fbf6ee"/>
+  <rect x="60" y="55" width="90" height="90" rx="10" fill="none" stroke="#c08a3e" stroke-width="5"/>
+  <rect x="185" y="55" width="90" height="90" rx="45" fill="none" stroke="#c08a3e" stroke-width="5"/>
+  <path d="M152 100h30m-8-8 8 8-8 8" fill="none" stroke="#c08a3e" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="160" y="188" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#c08a3e">Translation</text>
+</svg>

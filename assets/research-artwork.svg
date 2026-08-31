@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" width="320" height="200">
+  <rect width="320" height="200" fill="#f6eefb"/>
+  <path d="M70 150c20-60 40-90 60-90s30 40 50 40 30-50 50-50 20 40 20 100z" fill="#b48ad0" opacity="0.7"/>
+  <circle cx="95" cy="70" r="14" fill="#8a5fb0"/>
+  <text x="160" y="188" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#8a5fb0">Artwork</text>
+</svg>
