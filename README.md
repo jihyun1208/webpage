@@ -1,8 +1,5 @@
 # Ji-Hyun Lee — Personal Research Website
 
-`https://www.donghyeon-lee.com` 와 동일한 양식(레이아웃·타이포그래피·컴포넌트)으로 만든
-정적 개인 연구 홈페이지입니다. 빌드 도구 없이 순수 HTML/CSS/JS로만 되어 있어
-GitHub Pages에 그대로 올리면 됩니다.
 
 ## 구성
 
