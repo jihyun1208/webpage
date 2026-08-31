@@ -1,4 +1,4 @@
-# Ji-Hyun Lee — Personal Research Website
+# Jihyun Lee — Personal Research Website
 
 
 ## 구성
