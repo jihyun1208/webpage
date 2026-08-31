@@ -119,7 +119,7 @@ img { max-width: 100%; }
 .profile-photo-wrap {
   width: 220px;
   height: 220px;
-  border-radius: 50%;
+  border-radius: 16px;
   overflow: hidden;
   flex-shrink: 0;
   background: #f4f6f8;
