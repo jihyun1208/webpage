@@ -477,24 +477,28 @@ body.home header {
   background: rgba(255, 255, 255, 0.82);
 }
 
+body.home main {
+  padding-top: 14px;
+}
+
 .hero {
-  padding: 42px 0 10px;
+  padding: 6px 0 2px;
   text-align: center;
 }
 
 .hero h1 {
-  font-size: 2.3rem;
-  margin: 0 0 0.3em;
+  font-size: 1.9rem;
+  margin: 0 0 0.25em;
   letter-spacing: -0.01em;
 }
 
 .hero .tagline {
-  margin: 0 auto 0.4em;
-  font-size: 1.15rem;
+  margin: 0 auto 0.3em;
+  font-size: 1.02rem;
 }
 
 @media (max-width: 600px) {
-  .hero h1 { font-size: 1.7rem; }
+  .hero h1 { font-size: 1.5rem; }
 }
 
 body.home .profile {
@@ -503,9 +507,9 @@ body.home .profile {
   -webkit-backdrop-filter: blur(10px);
   border: 1px solid rgba(227, 230, 234, 0.9);
   border-radius: 18px;
-  padding: 26px 28px;
+  padding: 20px 24px;
   box-shadow: 0 10px 34px rgba(26, 82, 118, 0.10);
-  margin-top: 1.6em;
+  margin-top: 0.9em;
 }
 
 body.home .home-body {
