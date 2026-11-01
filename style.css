@@ -206,7 +206,8 @@ ul.philosophy { margin: 0.8em 0; padding-left: 1.3em; }
   flex-wrap: wrap;
 }
 
-.research-item img {
+.research-item img,
+.research-item video {
   width: 220px;
   height: 160px;
   object-fit: contain;
