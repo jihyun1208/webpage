@@ -8,7 +8,8 @@
 <link rel="alternate" hreflang="ko" href="index.ko.html">
 <link rel="stylesheet" href="style.css">
 </head>
-<body>
+<body class="home">
+<canvas id="md-bg" aria-hidden="true"></canvas>
 <header>
 <nav>
 <a class="site-name" href="index.html">Jihyun Lee</a>
@@ -24,8 +25,10 @@
 </header>
 
 <main>
+<div class="hero">
 <h1>From Molecular Insight to Better Therapies</h1>
 <p class="tagline" style="margin-top:0;">Bridging Molecular Simulation and Therapeutic Innovation</p>
+</div>
 
 <div class="profile">
 <div class="profile-photo-wrap"><img class="profile-photo" src="assets/profile-web.jpg" alt="Jihyun Lee"></div>
@@ -53,6 +56,7 @@
 </div>
 </div>
 
+<div class="home-body">
 <p class="lead">My research focuses on <strong>molecular dynamics (MD) simulations</strong>, <strong>lipid nanoparticle (LNP)-based drug delivery</strong>, and <strong>purinergic therapeutics targeting neuroinflammation</strong>. My goal is to <strong>translate molecular-level understanding into meaningful therapeutic strategies</strong>.</p>
 
 <p>The question that drives my research is simple: <strong>&ldquo;How can we translate what happens at the molecular level into therapies that truly benefit patients?&rdquo;</strong></p>
@@ -69,6 +73,7 @@
 </ul>
 
 <p>Looking ahead, I aim to advance <strong>simulation-guided nanomedicine design</strong> by bridging molecular modeling with clinical insight.</p>
+</div>
 
 </main>
 
@@ -76,5 +81,6 @@
 <p class="visit-count">Visitors today: <span id="visit-count">&hellip;</span></p>
 &copy; <span id="year"></span> Jihyun Lee</footer>
 <script src="main.js"></script>
+<script src="md-bg.js"></script>
 </body>
 </html>
